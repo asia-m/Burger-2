@@ -1,2 +1,2 @@
-# Bobs-Burgers
+Good Burger
 sequalize
